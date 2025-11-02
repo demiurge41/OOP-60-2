@@ -6,16 +6,16 @@
 
 команды только для одного проекта
 
-git init        |   инициализация Гита
-git remote add origin link_to_repository    |ДОБАЛЕНИЕ РЕПОЗИТОРИЯ
+1) git init        |   инициализация Гита
+2) git remote add origin link_to_repository    |ДОБАЛЕНИЕ РЕПОЗИТОРИЯ
     прим ( git remote add origin https://github.com/demiurge41/OOP-60-2.git   )
 
 git status  | статус репозитория
 
-git add .   |   добавление файлов в буфер обмена
-git commit -m "message" |сохранение всего из буфера обмена
+3) git add .   |   добавление файлов в буфер обмена
+4) git commit -m "message" |сохранение всего из буфера обмена
 
-git push origin master  | отправка всех сохранений в репозитории (на сайт GitHub)
+5) git push origin master  | отправка всех сохранений в репозитории (на сайт GitHub)
 
 
 ed
