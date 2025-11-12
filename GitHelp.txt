@@ -16,6 +16,3 @@ git status  | статус репозитория
 4) git commit -m "message" |сохранение всего из буфера обмена
 
 5) git push origin master  | отправка всех сохранений в репозитории (на сайт GitHub)
-
-
-ed
